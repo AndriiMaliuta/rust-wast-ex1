@@ -8,5 +8,6 @@
 ```
 cargo install wasm-pack
 cargo new --lib hello-wasm
+wasm-pack build --target web
 
 ```
